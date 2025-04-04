@@ -1,0 +1,9 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8eeec;
+  font-family: monospace;
+  scroll-behavior: smooth;
+  width: 100%;
+}
